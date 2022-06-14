@@ -134,12 +134,7 @@ body {
         align-items: center;
     }
 
-    .instagram__wrapper {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center; 
-    }
+
 
     .instagram__phone {
         display: none;

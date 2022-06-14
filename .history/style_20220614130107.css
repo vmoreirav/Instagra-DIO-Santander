@@ -135,10 +135,7 @@ body {
     }
 
     .instagram__wrapper {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center; 
+        width: 10%;
     }
 
     .instagram__phone {

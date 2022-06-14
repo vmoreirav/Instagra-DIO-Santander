@@ -1,4 +1,4 @@
-# Instagra-DIO-Santander
+# Instagram-DIO-Santander
 
 ![image](https://user-images.githubusercontent.com/95628630/173607283-28eb956c-09d0-4ba0-a492-ec6c6fc117d8.png)
 
